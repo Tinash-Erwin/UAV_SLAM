@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>StereoVisualSLAMForUAVNavigationIn3DSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex48906888</metadata>
+    <thumbnail>html/StereoVisualSLAMForUAVNavigationIn3DSimulationExample_04.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>vision</product>
+    <product>uav</product>
+    <product>simulink</product>
+    <product>nav</product>
+    <product>sl3d</product>
+    <file component="vision_uav" timestamp="1700479891">UAVVisualSLAMIn3DSimulation.slx</file>
+    <file component="vision_uav" timestamp="1617140702">uavStereoSLAMData.mat</file>
+    <file component="vision_uav" timestamp="1700231951">vSLAMModelUAV.PNG</file>
+    <file component="vision_uav" timestamp="1617140702">UAVTrajectoryVSLAM.png</file>
+    <file component="vision_uav" timestamp="1650055768">bofCityBlock.mat</file>
+    <file component="vision_uav" timestamp="1622747418">stereoImageUAV.png</file>
+    <file component="vision_uav" timestamp="1700479891">cameraTrajectorySLAM.png</file>
+    <file component="vision_uav" timestamp="1700479891">HelperStereoVisualSLAMSystem.m</file>
+  </demoitem>
+</demos>
